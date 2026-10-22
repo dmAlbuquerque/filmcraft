@@ -656,7 +656,7 @@
 	Auto Makeup	Compensação automática
 	Makeup	Compensação
 	Expander	Expansor
-	Soft Clip	Recorte suave
+	Soft Clip	Clipping suave
 	(no sequences)	(nenhuma sequência)
 	(no clips)	(nenhum clipe)
 	Show Transport Controls	Mostrar controles de transporte
@@ -1270,6 +1270,7 @@
 	59.94 fps Non Drop-Frame	59,94 fps sem drop-frame
 	ASC CDL	ASC CDL
 	Accessible color contrast	Contraste de cores acessível
+	Animate zoom, scrolling and menus	Animar zoom, rolagem e menus
 	Action-Safe Margin	Margem de segurança de ação
 	Active Monitor	Monitor ativo
 	Add	Adicionar
@@ -1523,7 +1524,7 @@
 	Composite Using	Compor usando
 	Composite on Original	Compor sobre o original
 	Compound Blur	Desfoque composto
-	Compression Before Clipping	Compactação antes do recorte
+	Compression Before Clipping	Compressão antes do clipping
 	Constant Gain	Ganho constante
 	Constant Power	Potência constante
 	Conversion Type	Tipo de conversão
@@ -1829,7 +1830,7 @@
 	HLS Vectorscope + Histogram	Vetorscópio HLS + histograma
 	HSL Secondary	HSL secundário
 	Hard	Rígido
-	Hard Clip	Recorte rígido
+	Hard Clip	Clipping duro
 	Hard Light	Luz direta
 	Hard Limiter	Limitador rígido
 	Hard Mix	Mistura sólida
@@ -1992,9 +1993,9 @@
 	Logo Cutout	Recorte de logotipo
 	Long Shadow	Sombra longa
 	Look-Ahead Time	Tempo de antecipação
-	Loudness	Sonoridade
-	Loudness Maximizer	Maximizador de sonoridade
-	Loudness Meter	Medidor de volume
+	Loudness	Loudness
+	Loudness Maximizer	Maximizador de loudness
+	Loudness Meter	Medidor de loudness
 	Louver	Persiana
 	Low	Baixa
 	Low Frequency Cut	Corte de baixas frequências
@@ -2358,6 +2359,7 @@
 	Set focus on the Timeline when performing Insert/Overwrite edits	Focar a linha do tempo ao fazer edições de inserção/sobrescrita
 	Set to frame size	Definir para o tamanho do quadro
 	Setting	Configuração
+# The native macOS application menu (Settings…).
 	Settings	Preferências
 	Shadow Angle	Ângulo da sombra
 	Shadow Blue Balance	Balanço de azul nas sombras
@@ -2536,7 +2538,7 @@
 	Target Aspect	Proporção de destino
 	Target Color	Cor de destino
 	Target Field of View	Campo de visão de destino
-	Target Loudness	Sonoridade desejada
+	Target Loudness	Loudness de destino
 	Teal & Orange	Verde-azulado e laranja
 	Telephone	Telefone
 	Teletext	Teletexto
@@ -2943,7 +2945,7 @@
 	Name Overlay	Sobreposição de nome
 	Timecode Overlay	Sobreposição de timecode
 	Luma Min / Max	Luma mín. / máx.
-	Loudness Normalization	Normalização de sonoridade
+	Loudness Normalization	Normalização de loudness
 	True Peak Limit	Limite de pico real
 	Audio only	Somente áudio
 	Scaling	Escala
@@ -3020,7 +3022,7 @@
 	Application	Aplicativo
 	Apply Guide Template	Aplicar modelo de guias
 	Auto Save Now	Salvar automaticamente agora
-	Auto-Match Loudness	Correspondência automática de volume
+	Auto-Match Loudness	Correspondência automática de loudness
 	Avid DNxHR	Avid DNxHR
 	Avid DNxHR HQ	Avid DNxHR HQ
 	Avid DNxHR LB	Avid DNxHR LB
@@ -3592,6 +3594,13 @@
 	Add to favorites	Adicionar aos favoritos
 
 	Remove from favorites	Remover dos favoritos
+
+# View ▸ Reset Interface Zoom (#2253).
+	Reset Interface Zoom	Redefinir zoom da interface
+	Track Color	Cor da trilha
+	Open a sequence to search its graphics	Abra uma sequência para pesquisar nos gráficos dela
+	No text graphics in this sequence. Add text with the Type tool.	Esta sequência não tem gráficos com texto. Adicione texto com a ferramenta Texto.
+	No matching text.	Nenhum texto corresponde.
 	Compression	Compressão
 	ZIP (1 scan line)	ZIP (1 linha de varredura)
 	ZIP (16 scan lines)	ZIP (16 linhas de varredura)
